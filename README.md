@@ -7,6 +7,8 @@ A táboa pode ser vencellada a través do campo POLYGON_ID da capa vectorial cor
 
 |     1 x ID     |            114 x coberturas                                 |
 
+![Sample](https://github.com/gottstaff/exploded_SIOSE2011_Galicia/blob/master/37659027.jpg)
+
 SIOSE  cedido  por  ©  
 Instituto Geográfico Nacional
 
