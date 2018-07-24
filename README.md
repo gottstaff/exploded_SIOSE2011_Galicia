@@ -9,8 +9,7 @@ A táboa pode ser vencellada a través do campo POLYGON_ID da capa vectorial cor
 
 ![Sample](https://github.com/gottstaff/exploded_SIOSE2011_Galicia/blob/master/37659027.jpg)
 
-SIOSE  cedido  por  ©  
-Instituto Geográfico Nacional
+SIOSE cedido por © Instituto Geográfico Nacional
 
 SIOSE distribúese con unha licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 Este subconxunto procesado distribúese baixo unha licencia [GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3).
