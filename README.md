@@ -14,4 +14,3 @@ SIOSE distribúese con unha licencia [CC BY 4.0](https://creativecommons.org/lic
 Este subconxunto procesado distribúese baixo unha licencia [GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3).
 
 Copyright © 2018 Gustavo Cao Cancio
-![ScreenShot](https://raw.githubusercontent.com/gottstaff/exploded_SIOSE2011Galicia/master/37659027.jpg)
