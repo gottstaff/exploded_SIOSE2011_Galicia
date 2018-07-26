@@ -14,4 +14,4 @@ SIOSE cedido por © Instituto Geográfico Nacional
 SIOSE distribúese con unha licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 Este subconxunto procesado distribúese baixo unha licencia [GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3).
 
-Copyright © 2018 Gustavo Cao Cancio
+Copyright © 2018 Gustavo Cao Cancio ORCID 0000-0003-2591-969X
