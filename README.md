@@ -11,7 +11,7 @@ output_complex mantén a mesma estrutura para as coberturas compostas no último
 
 ![Sample](https://github.com/gottstaff/exploded_SIOSE2014_Galicia/blob/master/37659027.jpg)
 
-SIOSE cedido por © Instituto Geográfico Nacional
+SIOSE cedido por © Instituto Geográfico Nacional - Xunta de Galicia
 
 SIOSE distribúese con unha licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 Este subconxunto procesado distribúese baixo unha licencia [GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3).
